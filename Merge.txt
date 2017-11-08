@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line one line onw line one 
+=======
+line one line onw git
+>>>>>>> e3eb0ef53e630df06174ac4d84af2e7863b3e45f
